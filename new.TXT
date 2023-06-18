@@ -1,0 +1,1 @@
+I downloaded thi game from Nakov's Github repo via git bash on 18.06.2023;
